@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "next build",
+    "lint": "eslint ./src",
+    "test": "node ./run-tests.js"
+  },
+  "devDependencies": {
+    "nx": "21.3.9"
+  },
+  "nx": {}
+}
